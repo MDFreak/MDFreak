@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Martin Dorfner born 1955 in Germany
-     Big parts of my former work life have been embedded system programming with closed (and expensive) development systems.
+- 👋 Hi, my name is Martin Dorfner born 1955 in Germany.
+     Great parts of my former work life have been embedded system programming with closed (and expensive) development systems.
      Now I'm retired and to some 'homework' in 3D-printing and µC-programming.
      About me (only in german): 'http://martin-dorfner.at' and 'http://fairpc.at'
      
