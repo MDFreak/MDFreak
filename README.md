@@ -15,25 +15,7 @@
      As I'm new with using git and VSCode I try to setup my project system, that I can use libraries from every Project without extra installing.
      My goal is to have a independant repository in git for every library and every unit-project using that library.
      For every library I want to establish a VSCode project and drive the  git interface.
-     
-     project directory
-       |
-       |---project 1 (-> git repository)
-             |
-             |---libraries (normal VSCode implementation)
-             |...
-       |
-       |---project 2 (-> git repository)
-             |
-             |---libraries (normal VSCode implementation)
-             |...
-       |
-       |---MD_libraries (my library set)
-             |
-             |---general library defines used by every library (-> git repository)
-             |---library 1 (-> git repository)
-             |---library 2 (-> git repository)
-     
+         
      My Intension for this system is the 3D firmware Marlin. The variation over controllern and peripheral is driven by makro defines.
      At the end I want to setup simular projects using different controllers and configure pins/peripheral with configuration files.
      This reduces the necessity to recode and test again.
