@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Martin Dorfner born 1955 in Germany.
      Great parts of my former work life have been embedded system programming with closed (and expensive) development systems.
      Now I'm retired and to some 'homework' in 3D-printing and µC-programming.
-     About me (only in german): 'http://martin-dorfner.at' and 'http://fairpc.at'
-     
+          
 - 👀 In order to develop small and affordable µ-controlled units mainly for private purpose, I found all the nice open source stuff.
      I decided to start things using Visual Studio Code and PlatformIO for programming controllers in Arduino environment.
      
